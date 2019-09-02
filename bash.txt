@@ -19,6 +19,3 @@ alias ll='ls -la'
 # find size less than 1 megabyte
 # find . -size -1M 
 # alias push='git add . ; git commit -m "no comment" ; git push'
-
-© 2019 GitHub, Inc.
-
